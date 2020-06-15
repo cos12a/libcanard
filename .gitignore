@@ -34,19 +34,15 @@
 # CMake build directory
 build/
 cmake-build-*/
-build-avr/
 
 # IDE and tools
+.idea
 .metadata
 .settings
 .project
 .cproject
 .pydevproject
 .gdbinit
-.vscode/
-**/.idea/*
-!**/.idea/dictionaries
-!**/.idea/dictionaries/*
 
 # Generated files
 dsdlc_generated/
